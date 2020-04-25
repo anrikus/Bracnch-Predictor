@@ -1,4 +1,4 @@
-### Branch predictor capable of implementing 3 brach prediction schemes:
+### Branch predictor capable of implementing 3 branch prediction schemes:
 
 1. Bimodal 
 2. GShare
